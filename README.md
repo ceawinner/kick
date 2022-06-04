@@ -1,0 +1,2 @@
+# kick
+kick script loll
